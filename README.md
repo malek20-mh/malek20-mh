@@ -2,7 +2,7 @@
 
 <!-- Banner -->
 <p align="center">
-  <img src="banner3.png" alt="Profile Banner" width="500" />
+  <img src="banner3.jpg" alt="Profile Banner" width="500" />
 </p>
 
 <!-- Visitors badge -->
