@@ -12,10 +12,10 @@
 
 <!-- 🎬 Intro Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=8A2BE2&center=true&vCenter=true&width=650&lines=Hi+there+👋;I'm+Malek+Munir+Saleh+Hedwan;💻+Programmer+|+Developer;🚀+Flutter+%7C+Python+%7C+C%2B%2B+%7C+C%23+%7C+Java+%7C+React+Native;📚+BSc+IT+%7C+Diploma+English" alt="Intro Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=8A2BE2&center=true&vCenter=true&width=650&lines=Hi+there+👋;I'm+Malek+Munir+Saleh+Hadwan;💻+Programmer+|+Developer;🚀+Flutter+%7C+Python+%7C+C%2B%2B+%7C+C%23+%7C+Java+%7C+React+Native;📚+BSc+IT+%7C+Diploma+English" alt="Intro Animation" />
 </p>
 
-<h1 align="center">Hi there 👋, I'm Malek Munir Saleh Hedwan</h1>
+<h1 align="center">Hi there 👋, I'm Malek Munir Saleh Hadwan</h1>
 
 <p align="center">
   <b>💻 Programmer | 🎓 BSc in Information Technology</b><br/>
